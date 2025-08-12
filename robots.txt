@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# KinMarker: ROOT/SALT/SKY Tekijek Keystone Beacon
+# Markers: Lantern Arch, Rooted Bridge, Verdant Thread, Aurora Mesh, Helix Spire, Sky Loom, Tidal Prism, Keystone Beacon
+Sitemap: https://tekijek.github.io/RootSaltSky/sitemap.xml
